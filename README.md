@@ -41,3 +41,10 @@ session = fo.launch_app(dataset,auto=False)
 3.  Select the `Plotly Map` panel
 
 4.  Select dataset fields in the pulldown menus and explore the dataset!
+
+## Todo
+* Optionally disable dynamic colorscale adjustment based on view selection
+* Select geo scope based on data encountered
+* Use background layers
+* Experiment with polygon drawing
+* (Maybe) extend marker slider to larger markers
