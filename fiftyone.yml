@@ -1,0 +1,9 @@
+name: "Plotly Map"
+description: Basic map panel using Plotly
+version: 0.0.2
+fiftyone:
+  version: ">=0.25"
+url: 
+license: Apache 2.0
+panels:
+  - plotly_map
