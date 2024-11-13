@@ -7,6 +7,9 @@ as an alternative to fiftyone's built-in
 [Map Panel](https://docs.voxel51.com/user_guide/app.html#map-panel) 
 that relies on [Mapbox](https://www.mapbox.com/). 
 
+<img width="1724" alt="Screenshot 2024-11-13 at 12 11 13 AM" src="https://github.com/user-attachments/assets/7515a199-dee8-457a-a73c-b21dd1138a26">
+Map data from [OpenStreetMap](http://openstreetmap.org/copyright)
+
 ## Installation
 
 ```shellx
